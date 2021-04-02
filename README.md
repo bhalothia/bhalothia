@@ -2,7 +2,7 @@
 
 I'm a Systems Engineer based out of Germany. I have over a decade of experience working on various phases of SDLC and most prominently in treating Infrastructure as Code and Site Reliability Operations. 
 
-- 👷 I’m currently working on scaling [Sennder](https://www.sennder.com/)'s Infrastructure to meet exponentially growing business growth.
+- 👷 I’m currently working on scaling [Sennder](https://www.sennder.com/)'s Infrastructure to meet exponential business growth.
 - ⚒️ Tech Stack: 
      
       
