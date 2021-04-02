@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Virendra 👋
 
-<!--
-**bhalothia/bhalothia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer based out of Germany. I have over a decade of experience working on various phases of SDLC and most prominently in treating Infrastructure as Code and Site Reliability Operations. 
 
-Here are some ideas to get you started:
+- 👷 I’m currently working on scaling [Sennder](https://www.sennder.com/)'s Infrastructure to meet exponentially growing business growth.
+- ⚒️ Tech Stack: 
+     
+      
+      - AWS ECS  
+      - Terraform
+      - Kubernetes, EKS, Helm
+      - Amazon RDS, PostgresSQL, ElasticSearch
+      - CI/CD with GitLab
+      - Datadog, Prometheus, Sentry
+      - Python, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Container Technologies, Policy Driven Infrastructure and IaC.
+- 📫 How to reach me: [bhalothia@gmail.com](mailto:bhalothia@gmail.com)
+- 🤓 [Stackoverflow](https://stackoverflow.com/users/2248697/bhalothia)
+- 👔 [Linkedin](https://www.linkedin.com/in/bhalothia/)
+
+
+
+💻 [Checkout My Blog](http://bhalothia.io)
