@@ -4,8 +4,8 @@ I’m a passionate entrepreneur and technology leader who turns complex challeng
 
 Today, I’m channelling my expertise into two dynamic ventures:
 
-- **Head of DevOps & Platform Engineering** at [IU Group](https://www.iu-group.com/): I’m crafting a future-proof platform strategy with one clear vision: making education accessible to everyone.
-
 - **Co-Founder & CTO** at [Novathes](https://novathes.com/): Here, we’re revolutionizing healthcare through AI-driven innovation, creating solutions that transform patient care and push the boundaries of what's possible.
+
+- **Head of DevOps & Platform Engineering** at [IU Group](https://www.iu-group.com/): I’m crafting a future-proof platform strategy with one clear vision: making education accessible to everyone.
 
 I thrive on aligning technical solutions with strategic business goals and nurturing high-performing teams that drive sustainable change. Passionate about healthcare, sustainability, and the arts, I’m committed to using technology for positive impact.
