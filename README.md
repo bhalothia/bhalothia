@@ -4,7 +4,7 @@ I’m a passionate entrepreneur and technology leader who turns complex challeng
 
 Today, I’m channelling my expertise into two dynamic ventures:
 
-- **Co-Founder & CTO** at [Novathes](https://novathes.com/): Here, we’re revolutionizing healthcare through AI-driven innovation, creating solutions that transform patient care and push the boundaries of what's possible.
+- **Co-Founder & CTO** at [Kolsetu](https://kolsetu.com/): Here, we're rebuilding the way businesses and people communicate. From the ground up.
 
 - **Head of DevOps & Platform Engineering** at [IU Group](https://www.iu-group.com/): I’m crafting a future-proof platform strategy with one clear vision: making education accessible to everyone.
 
